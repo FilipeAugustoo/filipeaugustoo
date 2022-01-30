@@ -19,14 +19,14 @@ Here are some ideas to get you started:
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipeaugustoo&layout=compact&langs_count=7&theme=dark"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipeaugustoo&layout=compact&langs_count=7&theme=cobalt"
     />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
       height="165"
-      src="https://github-readme-stats.vercel.app/api?username=filipeaugustoo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"
+      src="https://github-readme-stats.vercel.app/api?username=filipeaugustoo&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"
     />
   </a>
 </p>
